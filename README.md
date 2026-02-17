@@ -1,5 +1,7 @@
 # People Counting Dashboard
 
+[中文文档](README_zh.md)
+
 A real-time monitoring dashboard for camera-based people counting systems. Built with React, TypeScript, and Ant Design.
 
 ## Features
